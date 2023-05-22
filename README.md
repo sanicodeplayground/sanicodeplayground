@@ -1,4 +1,5 @@
-Hi! I'm Sanita 
+***Hi! I'm Sanita***
+
 Welcome to my Github page! I'm a team player 🧑‍🤝‍🧑, so although you won't find anything interesting here...
 
 - 🔭 I’m currently working on an ecommerce 
