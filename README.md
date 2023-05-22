@@ -6,7 +6,7 @@ Welcome to my Github page! I'm a team player 🧑‍🤝‍🧑, so although you
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding my first dev job
-- 📫 How to reach me: [...](http://sanicodeplayground.com/)
+- 📫 How to reach me: [sanicodeplayground.com](http://sanicodeplayground.com/)
 - 😄 Pronouns: her
 
 About me 💚
